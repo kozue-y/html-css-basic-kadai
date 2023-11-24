@@ -22,7 +22,7 @@ main {
   flex-basis: 25%;
   padding: 10px 15px;
   margin: 20px 0;
-  justify-content: center;
+  text-align: center;
 }
 h2 {
   font-size: 25px;
